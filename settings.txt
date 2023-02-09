@@ -1,0 +1,16 @@
+{"site_url":"http://localhost:8000",
+"site_title": "SDRUZHININ",
+"description": "Дружинин Святослав - Инженер и Исследователь",
+"keywords": "Веб-разработка на Python, бэкенд на Django и Flask",
+"name": "S/DRUZHININ",
+"tag1":"Исследователь, разработчик",
+"tag2":"и аналитика процессов",
+"sect1":"Главная",
+"sect2":"Пет-проекты",
+"sect4":"Блог",
+"sect5":"Контакты",
+"telegram":"https://t.me/doppioippob",
+"vk":"https://vk.com/id493869494",
+"email":"mailto:paradisewayne13@gmai.com",
+"city":"Новосибирск"
+}
