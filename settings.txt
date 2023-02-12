@@ -1,4 +1,4 @@
-{"site_url":"https://haoyamado.github.io/devblog",
+{"site_url":"https://haoyamado.github.io/DevBlog/",
 "site_title": "SDRUZHININ",
 "description": "Дружинин Святослав - Инженер и Исследователь",
 "keywords": "Веб-разработка на Python, бэкенд на Django и Flask",
